@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arnav Thapliyal
+Hi, My name is Arnav Thapliyal  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =======================================================================================================================================
 
 Student at UPES
@@ -31,10 +31,6 @@ I started learning to code in primary school and have been coding on and off sin
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArnavThapliyal/ArnavThapliyal/output/dist/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ArnavThapliyal/ArnavThapliyal/output/dist/pacman-contribution-graph.svg">
 </picture>
-
-
-
-
 
 ### Badges
 
