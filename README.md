@@ -8,7 +8,6 @@ I started learning to code in primary school and have been coding on and off sin
 
 * 🌍  I'm based in Uttarakhand
 * ✉️  You can contact me at [arnavthapliyal8to@gmail.com](mailto:arnavthapliyal8to@gmail.com)
-* 🧠  I'm learning C and Python
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I was BATMAN 😔, don't tell anyone 🤫.
 
