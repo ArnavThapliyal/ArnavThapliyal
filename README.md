@@ -50,8 +50,10 @@ I started learning to code in primary school and have been coding on and off sin
          height="32"
          alt="Email"
          style="vertical-align: middle; margin: 0 4px;" />
+<!--
   </picture>
-</a> -->
+</a> 
+-->
 
   <!-- Behance -->
   <a href="https://www.behance.net/thapliyalarnav" target="_blank" rel="noreferrer">
