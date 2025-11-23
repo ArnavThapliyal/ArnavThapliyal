@@ -21,7 +21,6 @@ I started learning to code in primary school and have been coding on and off sin
 
 
 ### Socials
-  <!-- GitHub -->
 <p align="left">
   <a href="https://www.github.com/ArnavThapliyal" target="_blank" rel="noreferrer">
     <picture>
@@ -30,7 +29,6 @@ I started learning to code in primary school and have been coding on and off sin
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
     </picture>
   </a>
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/arnavthapliyal/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
@@ -52,9 +50,6 @@ I started learning to code in primary school and have been coding on and off sin
   </picture>
 </a>
 -->
-
-
-  <!-- Behance -->
   <a href="https://www.behance.net/thapliyalarnav" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance-dark.svg" />
@@ -62,8 +57,6 @@ I started learning to code in primary school and have been coding on and off sin
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" />
     </picture>
   </a>
-
-  <!-- Instagram -->
   <a href="https://www.instagram.com/arnavthapliyal_/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
@@ -71,7 +64,6 @@ I started learning to code in primary school and have been coding on and off sin
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
     </picture>
   </a>
-
 
 </p>
 
