@@ -40,7 +40,7 @@ I started learning to code in primary school and have been coding on and off sin
   </a>
 
 <!-- Email -->
-<a href="mailto:arnavthapliyal8to@gmail.com" target="_blank" rel="noreferrer">
+<!--<a href="mailto:arnavthapliyal8to@gmail.com" target="_blank" rel="noreferrer">
   <picture>
     <!-- Optional: Replace with your own light/dark variants -->
     <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
@@ -50,7 +50,7 @@ I started learning to code in primary school and have been coding on and off sin
          height="32"
          alt="Email"
          style="vertical-align: middle; margin: 0 4px;" />
-  </picture>
+  <!--</picture>
 </a> 
 
   <!-- Behance -->
