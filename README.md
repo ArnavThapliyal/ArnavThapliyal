@@ -7,7 +7,7 @@ Student at UPES
 I started learning to code in primary school and have been coding on and off since then. Now, after joining university, I have discovered my passion for the backend logic of programs.
 
 * 🌍  I'm based in Uttarakhand
-* ✉️  You can contact me at [arnavthapliyal8to@gmail.com](mailto:arnavthapliyal8to@gmail.com)
+* ✉️  You can contact me at [arnavthapliyal.work@gmail.com](mailto:arnavthapliyal.work@gmail.com)
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I was BATMAN 😔, don't tell anyone 🤫.
 
