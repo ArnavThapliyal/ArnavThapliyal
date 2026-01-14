@@ -4,7 +4,7 @@ Hi, My name is Arnav Thapliyal  ![](https://user-images.githubusercontent.com/18
 Student at UPES
 ---------------
 
-I started learning to code in primary school and have been coding on and off since then.
+I am A Cloud Engeener... Building to MLOps
 
 * 🌍  I'm based in Uttarakhand
 
@@ -45,7 +45,7 @@ I started learning to code in primary school and have been coding on and off sin
 
 
 
-### PacMan Activity bar
+<!-- ### PacMan Activity bar -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArnavThapliyal/ArnavThapliyal/output/dist/pacman-contribution-graph-dark.svg">
