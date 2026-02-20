@@ -5,7 +5,7 @@ I am Arnav, a Cloud Engeener... Building to MLOps
 
 * 🌍  I'm based in Uttarakhand
 
-* ✉️  You can contact me at [arnavthapliyal.work@gmail.com](mailto:arnavthapliyal.work@gmail.com) (Click to copy)
+* ✉️  You can contact me at [arnavthapliyal.work@gmail.com](mailto:arnavthapliyal.work@gmail.com) 
 
 * ⚡  I was BATMAN 😔, don't tell anyone 🤫.
 
