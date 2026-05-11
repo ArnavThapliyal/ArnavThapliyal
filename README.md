@@ -1,136 +1,52 @@
-### `> whoami`
+YO,   ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-**Arnav Thapliyal** &nbsp;·&nbsp; Co-Founder · Researcher · Changemaker · *cogito, ergo sum* 🦇
+I am Arnav, a Cloud Engineer... Building to MLOps
+========================================================
 
-I don't optimize for salary. I have enough capital to compound quietly — so I optimize for the only resource that doesn't inflate: *time spent on things that matter.*
+* 🌍  I'm based in Uttarakhand
 
-My work lives at the edges — where computation bleeds into biology, where infrastructure disappears into abstraction, and where research questions don't yet have clean answers.
+* ✉️  You can contact me at [arnavthapliyal.work@gmail.com](mailto:arnavthapliyal.work@gmail.com) 
 
----
+* ⚡  I was BATMAN 😔, don't tell anyone 🤫.
 
-### `> research --active`
+### Skills
 
-📄 **CBMIR with Neural Backpropagation & Deep Neural Hashing** *(in progress)*  
-Content-Based Medical Image Retrieval — learning compact hash representations through backprop-tuned similarity spaces to make medical image search work at scale. Not a side project. The thing.
-
-⚛️ **Quantum Computing** — the layer where classical assumptions break and interesting things begin.
-
-🧬 **Synthetic Gene Synthesis** — programmable biology. DNA as a write medium, not just a read one. The infrastructure layer for life itself.
-
----
-
-### `> cat /etc/philosophy`
-
-```
-cogito, ergo sum.
-
-I don't need to get rich.
-I need to stay alive long enough to finish the work.
-
-Capital exists to buy time.
-Time exists to do the work.
-The work exists because it matters.
-
-The rest is noise.
-```
-
----
-
-### `> ls ./projects`
-
-**[AM](https://github.com/ArnavThapliyal/AM)** — `cogito, ergo sum`  
-A LLaMA-powered agent for workflow optimization and task automation. Open-source by design — built to be used, forked, and criticized. *May 2025 – Present*
-
-**[Private-Cloud-Homelab](https://github.com/ArnavThapliyal/Private-Cloud-Homelab)**  
-Zero-trust homelab: Docker for internal service orchestration + NetBird for peer-to-peer tunneling. Cross-platform auth across Linux, Windows, Android — no public attack surface.
-
-**Crop Growth Simulation** *(UPES, Oct–Dec 2025)*  
-ML-driven crop prediction and advisory system. Tested XGBoost; Random Forest won. Tkinter UI for farmers making real agricultural decisions. Applied ML where it actually helps someone.
-
----
-
-### `> history --roles`
-
-```
-Mar 2026 – Present    Co-Founder         Vallo · Dehradun
-Apr 2026 – Present    Enabler            UPES
-2024 – May 2026       Changemaker        UPES · Social impact, community, NGO collab
-Jun–Jul 2025          Social Work Intern GSS Minority Research Foundation · Remote
-Nov–Dec 2024          AI Intern          Academor × Flutura · ML & Deep Learning
-```
-
----
-
-### `> certs --notable`
-
-- 📊 **Time Series Analysis** — Consulting & Analytics Club, IIT Guwahati *(Mar 2025)*  
-  Forecasting pollutant concentrations with real-world air quality data.
-- 🐍 **100 Days of Python** — HCL GUVI × UPES *(Mar 2025)*
-- 🤖 **Artificial Intelligence** — Academor *(Feb 2025)*
-
----
-
-### `> skills --stack`
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" title="Java" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" title="Blender" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40" height="40" alt="Linux" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="40" height="40" alt="Blender" />
 </p>
 
-`Python` `ML/DL` `Docker` `Arch Linux` `NetBird` `LLaMA` `Random Forest` `XGBoost` `Git`
 
-Tools serve the problem. The problem picks the tools.
 
----
-
-### `> connect`
-
+### Socials
 <p align="left">
-  <a href="https://www.github.com/ArnavThapliyal" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="28" height="28" />
-    </picture>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/arnavthapliyal/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" />
-    </picture>
-  </a>
-  &nbsp;
-  <a href="https://www.behance.net/thapliyalarnav" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="28" height="28" />
-    </picture>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/arnavthapliyal_/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="28" height="28" />
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:arnavthapliyal.work@gmail.com">arnavthapliyal.work@gmail.com</a>
+<a href="https://www.github.com/ArnavThapliyal" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></picture></a><a href="https://www.linkedin.com/in/arnavthapliyal/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></picture></a><a href="https://www.behance.net/thapliyalarnav" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></picture></a><a href="https://www.instagram.com/arnavthapliyal_/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></picture>
+</a>
 </p>
+<!--
+<a href="mailto:arnavthapliyal8to@gmail.com" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
+         width="32"
+         height="32"
+         alt="Email"
+         style="vertical-align: middle; margin: 0 4px;" />
+  </picture>
+</a>
+-->
 
----
 
-### `> git log --contributions`
+
+
+
+
+<!-- ### PacMan Activity bar -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArnavThapliyal/ArnavThapliyal/output/dist/pacman-contribution-graph-dark.svg">
@@ -138,6 +54,14 @@ Tools serve the problem. The problem picks the tools.
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ArnavThapliyal/ArnavThapliyal/output/dist/pacman-contribution-graph.svg">
 </picture>
 
----
+<!--
 
-<sub>📍 Uttarakhand, India &nbsp;·&nbsp; ⚡ I was Batman. The cape situation remains classified. 🤫</sub>
+### Badges
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/ArnavThapliyal"><img src="https://github-readme-stats.vercel.app/api?username=ArnavThapliyal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ArnavThapliyal's GitHub stats" /></a>
+
+<a href="http://www.github.com/ArnavThapliyal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavThapliyal&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/ArnavThapliyal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavThapliyal&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+-->
