@@ -1,13 +1,10 @@
-YO,   ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hi, <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35">
 
-I am Arnav, a Cloud Engineer... Building to MLOps
-========================================================
+I am Arnav, a MLOps devloper... trign out different skills against real application to validate my hypotheses, check out some of my work to know more.
 
-* 🌍  I'm based in Uttarakhand
+* I'm based in Uttarakhand, IND and you can contact me at [arnavthapliyal.work@gmail.com](mailto:arnavthapliyal.work@gmail.com) 
 
-* ✉️  You can contact me at [arnavthapliyal.work@gmail.com](mailto:arnavthapliyal.work@gmail.com) 
 
-* ⚡  I was BATMAN 😔, don't tell anyone 🤫.
 
 ### Skills
 
