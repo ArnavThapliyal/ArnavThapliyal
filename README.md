@@ -10,11 +10,14 @@ I am Arnav, a MLOps devloper... trign out different skills against real applicat
 
 
 <p align="left">
+  <img src="https://cdn.simpleicons.org/ollama" width="40" height="40" alt="Ollama" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40" height="40" alt="Linux" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="40" height="40" alt="Blender" />
+  <img src="https://cdn.simpleicons.org/rust" width="40" height="40" alt="Rust" />
+  <img src="https://cdn.simpleicons.org/docker" width="40" height="40" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="40" height="40" alt="AWS" />
 </p>
 
 
